@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Count of students</string>
+    <string name="app_name">Счетчик студентов</string>
+    <string name="number_of_students">0</string>
+    <string name="add_student">Добавить студента</string>
 </resources>

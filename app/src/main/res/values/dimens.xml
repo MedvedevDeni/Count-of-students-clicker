@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="numberOfStudents">50dp</dimen>
+    <dimen name="numberOfStudentsSize">100dp</dimen>
+    <dimen name="addStudent">18dp</dimen>
+    <dimen name="groundSize">10dp</dimen>
+</resources>
